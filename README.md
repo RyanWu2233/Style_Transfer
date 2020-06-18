@@ -35,6 +35,22 @@ Gram matrix is a kind of ***style*** estimation. In order to computer Gram matri
 ![Gram_matrix](./Images/STF_W_TV.jpg)  
   
 ----
+## Style transfer results:  
+![Result_1](./Images/STF_Result_1.jpg)  
+![Result_2](./Images/STF_Result_2.jpg)  
+![Result_3](./Images/STF_Result_3.jpg)  
+![Result_4](./Images/STF_Result_4.jpg)  
+![Result_5](./Images/STF_Result_5.jpg)  
+![Result_6](./Images/STF_Result_6.jpg)  
+![Result_7](./Images/STF_Result_7.jpg)  
+![Result_8](./Images/STF_Result_8.jpg)  
+![Result_9](./Images/STF_Result_9.jpg)  
+
+----
+## Usage
+
+
+
 
 
 

@@ -25,12 +25,18 @@ Gram matrix is a kind of ***style*** estimation. In order to computer Gram matri
 
 ----
 ## Hyper Parameters
-**Content layer selection**  
+**Comparison between different dontent layer:**  
 ![Gram_matrix](./Images/STF_Cont_Layer.jpg)  
-**Style weighting setting**  
+  
+**Comparison between different style weighting:**  
 ![Gram_matrix](./Images/STF_W_Style.jpg)  
-**Total variation weighting setting**  
-![Gram_matrix](./Images/STF_W_TV.jpg)
+  
+**Comparison between different total variation weighting:**  
+![Gram_matrix](./Images/STF_W_TV.jpg)  
+  
+----
+
+
 
 
 

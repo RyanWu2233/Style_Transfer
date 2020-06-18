@@ -23,3 +23,8 @@ Gram matrix is a kind of ***style*** estimation. In order to computer Gram matri
 > Leon A. Gatys, Alexander S. Ecker, Matthias Bethge  
 > https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
+----
+## Hyper Parameters
+
+![Gram_matrix](./Images/STF_Gram.jpg)  
+

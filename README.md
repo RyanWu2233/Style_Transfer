@@ -10,7 +10,7 @@ TensorFlow 2.1 implementation for Leon A.Gatys neural style transfer algorithm
 Gaty's neural style transfer algorithm use VGG19 to extract feature space for both content image and style image. Content loss is computed by estimating mean squared error at content layer (`conv5_2`) between content and style image. Style loss is computed by computing Gram matrix at style layers (`conv5_2`,`conv4_2`,`conv3_2`,`conv2_2`). Total loss combined style loss and content loss with specific content weighting and style weighting. Style can be transfered by minimizing total loss.    
 ![Loss_equation](./Images/STF_Loss.jpg)  
 
-Gram matrix is a kind of ***style*** estimation. In order to computer Gram matrix, the 3D feature space (H * W * C) is reshaped as 2D space (HW * C) first. Then, Gram matrix is derived by computing matrix multiplication (C * HW) * (HW * C).  
+Gram matrix is a kind of ***style*** estimation. In order to computer Gram matrix, the 3D feature space (H * W * C) is reshaped as 2D space (HW * C) first. Then, Gram matrix is derived by computing matrix multiplication (C * HW) * (HW * C). Size of Gram matrix is (nc * nc) where nc is number of channel for feature spaec. G(i,j) represents correlation between i_th feature and j_th feature 
 
 ![Gram_matrix](./Images/STF_Gram.jpg)  
 

@@ -26,14 +26,14 @@ Gram matrix is a kind of ***style*** estimation. In order to computer Gram matri
 ----
 ## Usage
 Directly modify hyperparameters in the file named: `Gatys_Style_Transfer.py` and execute it.  
-`S_path`  File path for style image  
-`C_path`  File path for content image  
-`S_weight` Weighting for style loss  
-`C_weight` Weighting for content loss  
-`TV_weight` Weighting for total variation loss  
-`nrows` Number of rows for output image  
-`S_layers` Feature layers for style loss
-`C_layer` Feature layer for content loss
+> `S_path`  File path for style image  
+> `C_path`  File path for content image  
+> `S_weight` Weighting for style loss  
+> `C_weight` Weighting for content loss  
+> `TV_weight` Weighting for total variation loss  
+> `nrows` Number of rows for output image  
+> `S_layers` Feature layers for style loss  
+> `C_layer` Feature layer for content loss  
 
 ----
 ## Hyper Parameters

@@ -25,7 +25,7 @@ Gram matrix is a kind of ***style*** estimation. In order to computer Gram matri
 
 ----
 ## Usage
-Dirct modify hyperparameters in the file named `Gatys_Style_Transfer.py` and execute it.  
+Directly modify hyperparameters in the file named: `Gatys_Style_Transfer.py` and execute it.  
 `S_path`  File path for style image  
 `C_path`  File path for content image  
 `S_weight` Weighting for style loss  
